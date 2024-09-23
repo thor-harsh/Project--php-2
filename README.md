@@ -20,7 +20,7 @@ The PHP reference implementation is now produced by the PHP Group.<br></br>
 3. **welcome.php:** A protected page that welcomes the user after a successful login.<br>
 4. **signout.php:** Logs the user out and destroys the session.<br></br>
 
-**Features**<br></br>
+**Features**:<br>
 1. User registration with validation.<br>
 2. User login with session management.<br>
 3. Protected dashboard (welcome.php) that can only be accessed after successful login.<br>
