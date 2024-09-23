@@ -13,7 +13,7 @@ PHP is a general-purpose scripting language geared towards web development. It w
 The PHP reference implementation is now produced by the PHP Group.<br></br>
 
 
-**This repository contains a fully-fledged login system built with PHP. It includes the following pages:** <br></br>
+**This repository contains a fully-fledged login system built with PHP. It includes the following pages:** <br>
 
 1. **login.php:** Allows users to log in to the system.<br>
 2. **signup.php:** Enables new users to register by creating an account.<br>
