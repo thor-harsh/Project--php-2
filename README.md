@@ -2,7 +2,7 @@
 
 <table>
   
-**In this project we'll be using php to creating full fledged LOGIN Site** <br></br>
+**This repository contains a fully-fledged login system built with PHP.** <br></br>
 
 
 **Before jumping to the code lets understand what is php and let's see the different pages in it**...<br></br>
